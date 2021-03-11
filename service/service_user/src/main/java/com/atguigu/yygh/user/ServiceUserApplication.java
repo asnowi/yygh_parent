@@ -8,6 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 /**
  * 用户服务启动类
+ *
  * @author gaoguanqi
  * @version 1.0
  * @date 2021/3/11 14:45
@@ -19,6 +20,6 @@ import org.springframework.context.annotation.ComponentScan;
 public class ServiceUserApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ServiceUserApplication.class,args);
+        SpringApplication.run(ServiceUserApplication.class, args);
     }
 }

@@ -42,3 +42,4 @@ spring:
 mybatis-plus:
   mapper-locations: classpath:com/atguigu/yygh/user/mapper/xml/*.xml
 
+
