@@ -25,6 +25,8 @@
             <artifactId>service_util</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
+
+        <!-- 引入实体库-->
         <dependency>
             <groupId>com.atguigu.yygh</groupId>
             <artifactId>model</artifactId>
